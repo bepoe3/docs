@@ -157,7 +157,7 @@ We (usually the docs team, but sometimes GitHub product managers, engineers, or 
 :yellow_heart: Reviews are constructive and start conversation around feedback.  
 
 ### Self review
-You should always review your own PR first.
+You should always review your own PR first. Mom
 
 For content changes, make sure that you:
 - [ ] Confirm that the changes meet the user experience and goals outlined in the content design plan (if there is one).
